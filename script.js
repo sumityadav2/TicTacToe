@@ -38,8 +38,8 @@ const checkWin = () => {
 }
 
 //For Music
-// music.loop=true;
-// music.play();
+music.loop=true;
+music.play();
 
 //Game Logic
 
